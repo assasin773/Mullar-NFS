@@ -33,9 +33,9 @@ const bugMenu = async (m, sock) => {
 │ 📂 ᴍᴇɴᴜ : 𝗕𝗨𝗚-𝗠
 │ 🧬 ᴠᴇʀ : *𝟸.𝟶.𝟶*
 ╰───────────────────⭓
-➤ xeon-blast
-➤ xeon-kill
-➤ xeon-freeze
+➤ mullar-blast
+➤ mullar-kill
+➤ mullar-freeze
 ➤ mullar-kill
 ➤ ios-kill
 ➤ mullar-NFS
