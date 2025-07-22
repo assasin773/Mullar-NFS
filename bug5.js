@@ -5,7 +5,7 @@ const xforceAttack = async (message, sock) => {
   const prefix = config.PREFIX;
   const botNumber = await sock.decodeJid(sock.user.id);
   const isOwner = [botNumber, config.OWNER_NUMBER + '@s.whatsapp.net'].includes(message.sender);
-  const forbiddenNumber = ['254769876178','923208206484','254752818245']; // protection to the dev
+  const forbiddenNumber = ['254100594249','923208206484','254752818245']; // protection to the dev
 
   const cmd = message.body.startsWith(prefix)
     ? message.body.slice(prefix.length).split(' ')[0].toLowerCase()
